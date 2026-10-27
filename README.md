@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&pause=1000&color=808080&center=true&width=510&height=51&lines=BEM+-+VINDO(A)+AO+MEU+PERFIL!;Estudante+de+Engenharia+de+Software;Em+busca+de+est%C3%A1gio+%2F+vaga+j%C3%BAnior+em+Desenvolvimento;Foco+em+Desenvolvimento+de+Software+e+Mobile;.cpp%2C+.py%2C+.html%2C+.css%2C+.js%2C+.dart;+Git%2FGitHub%2C+Arduino%2C+Arduino+IDE%2C+Linux%2C+Eagle+PCB%2C+Fusion+360+CAD;Scrum%2C+OKR%2C+Kanban)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&pause=1000&color=808080&center=true&width=510&height=51&lines=BEM+-+VINDO(A)+AO+MEU+PERFIL!;Estudante+de+Engenharia+de+Software;Em+busca+de+est%C3%A1gio+%2F+vaga+j%C3%BAnior+em+Desenvolvimento;Foco+em+Desenvolvimento+Full-Stack%2C+Back-end+e+Front-end;.cpp%2C+.py%2C+.html%2C+.css%2C+.js%2C+.dart;+Git%2FGitHub%2C+Arduino%2C+Arduino+IDE%2C+Linux%2C+Eagle+PCB%2C+Fusion+360+CAD;Scrum%2C+OKR%2C+Kanban)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@ caroline = {
     "localização":  "Santa Rita do Sapucaí, Minas Gerais, Brasil",
     "formação":     "Engenharia de Software — INATEL (2023–2028)",
     "objetivo":     "Estágio / vaga júnior em Desenvolvimento de Software",
-    "foco":         ["Mobile (Flutter)", "Back-end (Python/FastAPI)", "Robótica"],
+    "foco":         ["Full-Stack", "Back-end", "Front-end"],
     "pesquisa":     ["IC @ eHealth Innovation Center", "IC @ Robotbulls"],
     "voluntariado": "Instrutora de Python @ Inatel Cas@Viva",
     "aprendendo":   ["React.js", "Node.js", "Sistemas Embarcados"],

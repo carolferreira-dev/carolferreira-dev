@@ -15,7 +15,7 @@ caroline = {
     "localização":  "Santa Rita do Sapucaí, Minas Gerais, Brasil",
     "formação":     "Engenharia de Software — INATEL (2023–2028)",
     "objetivo":     "Estágio / vaga júnior em Desenvolvimento de Software",
-    "foco":         ["Desenvolvimento Mobile (Flutter)", "Back-end (Python/FastAPI)", "Robótica"],
+    "foco":         ["Mobile (Flutter)", "Back-end (Python/FastAPI)", "Robótica"],
     "pesquisa":     ["IC @ eHealth Innovation Center", "IC @ Robotbulls"],
     "voluntariado": "Instrutora de Python @ Inatel Cas@Viva",
     "aprendendo":   ["React.js", "Node.js", "Sistemas Embarcados"],

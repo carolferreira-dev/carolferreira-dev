@@ -16,7 +16,7 @@ caroline = {
     "formação":     "Engenharia de Software — INATEL (2023–2028)",
     "objetivo":     "Estágio / vaga júnior em Desenvolvimento de Software",
     "foco":         ["Desenvolvimento Mobile (Flutter)", "Back-end (Python/FastAPI)", "Robótica"],
-    "pesquisa":     ["IC @ eHealth Innovation Center (2026–atual)", "IC @ Robotbulls — robôs seguidores de linha (2025–2026)"],
+    "pesquisa":     ["IC @ eHealth Innovation Center", "IC @ Robotbulls"],
     "voluntariado": "Instrutora de Python @ Inatel Cas@Viva",
     "aprendendo":   ["React.js", "Node.js", "Sistemas Embarcados"],
 }

@@ -59,7 +59,7 @@ caroline = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carolferreira-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolferreira-dev&theme=tokyonight" height="165"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=carolferreira-dev&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560)
 

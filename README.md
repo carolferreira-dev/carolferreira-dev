@@ -46,14 +46,22 @@ caroline = {
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
-| **Biochallenge — Orienta+** | App que ajuda pessoas trans a acessarem o SUS: jornada guiada da UBS ao atendimento especializado, mapa de serviços (OpenStreetMap + CNES/DataSUS), relatos da comunidade e calendário de hormonização com lembretes. | <img src="https://skillicons.dev/icons?i=flutter,py,fastapi,supabase" width="100"/> |
-| **FETIN — SafeVoice** | App de emergência discreto para vítimas de violência doméstica: disfarçado de calendário menstrual, aciona um SOS silencioso que envia localização e áudio à rede de apoio pelo WhatsApp (Cloud API da Meta). Testes e CI com GitHub Actions. | <img src="https://skillicons.dev/icons?i=flutter,py,fastapi,supabase" width="100"/> |
-| **[CPG GameJam — Orbitando](https://njj21.itch.io/orbitando)** | Jogo desenvolvido em 36 horas na maratona CPG do INATEL (tema: *Ctrl + Alt + Math*). A Orbi precisa voltar ao seu planeta mantendo energia, oxigênio e integridade da nave — resolvendo puzzles matemáticos para sobreviver. | <img src="https://img.shields.io/badge/GameMaker-000000?logo=gamemaker&logoColor=white"/> |
+| **Orienta+ — BioChallenge 2026** <br> 🏆 *Top 4 na semifinal (17 equipes) e final no CBEB 2026, Fortaleza* | App que guia pessoas trans no acesso ao SUS: jornada da UBS ao atendimento especializado, mapa de serviços de saúde (OpenStreetMap), base de conhecimento offline e lembretes de hormonização. Segurança com RLS no Supabase, auditoria de acessibilidade e deploy no Render. | <img src="https://skillicons.dev/icons?i=flutter,py,fastapi,supabase" width="100"/> |
+| **SheHear (SafeVoice) — FETIN 2026** <br> 🥈 *2º lugar em Viabilidade de Mercado* | App de emergência para vítimas de violência doméstica: disfarçado de calendário menstrual, aciona um SOS silencioso (toques na tela ou botões físicos, mesmo com a tela bloqueada) que envia localização e áudio à rede de apoio pelo WhatsApp. API em FastAPI com fila de entregas e novas tentativas, CI com GitHub Actions. | <img src="https://skillicons.dev/icons?i=flutter,py,fastapi,supabase" width="100"/> |
+| **[(Orbi)tando](https://njj21.itch.io/orbitando) — CPG GameJam 2026** <br> ⏱️ *Hackathon de 36h* · [código](https://github.com/carolferreira-dev/the-sixth-slice) | Jogo feito em 36 horas na maratona CPG do INATEL (tema: *Ctrl + Alt + Math*). A Orbi precisa voltar ao seu planeta mantendo energia, oxigênio e integridade da nave. Fui responsável pela lógica dos puzzles matemáticos e pelo sistema de equações, em equipe de 5 pessoas. | <img src="https://img.shields.io/badge/GameMaker-000000?logo=gamemaker&logoColor=white"/> |
 
 </div>
 
 ---
 
+
+### 🏆 Publicações e prêmios
+
+- 📄 **Coautora do artigo** *"Estudos de Desenvolvimento de um Robô para a Categoria Seguidor de Linha Pro"*, Anais do XXXVIII Incitel, Inatel (2026), pp. 348–354
+- 🥈 **2º lugar em Viabilidade de Mercado**, FETIN 2026 (SheHear/SafeVoice)
+- 🏅 **Top 4 na semifinal do BioChallenge 2026** (17 equipes), com apresentação na final do CBEB 2026 em Fortaleza (Orienta+)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -69,7 +77,7 @@ caroline = {
 
 ### 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolineferreiradesouza)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=carolferreira.cf699@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=carolferreira.dev@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?&logo=adobeacrobatreader&logoColor=white)](https://github.com/carolferreira-dev/carolferreira-dev/blob/main/curriculo_caroline_ferreira.pdf)
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-104A7F?)](http://lattes.cnpq.br/5376606359253552)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&logo=itch.io&logoColor=white)](https://carolferreirauai.itch.io)
